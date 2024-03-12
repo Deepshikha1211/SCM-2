@@ -1,5 +1,9 @@
 hello 123
 guys 456
+<<<<<<< HEAD
 hiiii
 hiiiiii
 2nd time happening
+=======
+first commit
+>>>>>>> 7dc631c2a0fbf394b4c93d8b427e2ced4e829317
