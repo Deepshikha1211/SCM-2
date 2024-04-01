@@ -7,3 +7,7 @@ hiiiiii
 =======
 first commit
 >>>>>>> 7dc631c2a0fbf394b4c93d8b427e2ced4e829317
+
+hello :)
+SCM
+Deepshikha
